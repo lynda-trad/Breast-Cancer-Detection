@@ -5,6 +5,7 @@ This repository is composed of a notebook, a README, and a data folder. In said 
 
 ## Summary
 - Data Analysis
+- Sequential Conv2D model
 - Xception
 - ResNet50V2
 
