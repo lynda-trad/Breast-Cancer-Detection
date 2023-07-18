@@ -12,3 +12,5 @@ ___
 
 The **data** used in this notebook was downloaded here :
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+
+To use this notebook, please download the kaggle dataset to the root of this repository, rename the folder to data and leave the sub folders unchanged.
